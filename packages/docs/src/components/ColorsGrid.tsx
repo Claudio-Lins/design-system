@@ -1,4 +1,4 @@
-import { colors } from '@claudioLins-ui/tokens'
+import { colors } from '@claudio-lins-ui/tokens'
 import { getContrast } from 'polished'
 export function ColorsGrid() {
   return Object.entries(colors).map(([key, color]) => {

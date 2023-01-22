@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
 
-import { Box, BoxProps, Text } from '@claudioLins-ui/react'
+import { Box, BoxProps, Text } from '@claudio-lins-ui/react'
 
 export default {
   title: 'Surface/Box',

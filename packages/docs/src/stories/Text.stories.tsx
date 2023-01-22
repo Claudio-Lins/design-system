@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
 
-import { Text, TextProps } from '@claudioLins-ui/react'
+import { Text, TextProps } from '@claudio-lins-ui/react'
 
 export default {
   title: 'Typography/Text',

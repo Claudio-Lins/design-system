@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@claudioLins-ui/tokens'
+} from '@claudio-lins-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

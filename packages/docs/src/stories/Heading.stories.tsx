@@ -1,4 +1,4 @@
-import { Heading, HeadingProps } from '@claudioLins-ui/react'
+import { Heading, HeadingProps } from '@claudio-lins-ui/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {

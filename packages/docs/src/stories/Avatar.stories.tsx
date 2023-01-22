@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
 
-import { Avatar, AvatarProps } from '@claudioLins-ui/react'
+import { Avatar, AvatarProps } from '@claudio-lins-ui/react'
 
 export default {
   title: 'Data dislay/Avatar',
