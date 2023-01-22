@@ -1,4 +1,4 @@
 {
-  "extends": "@claudioLins-ui/ts-config/react.json",
+  "extends": "@claudio-lins-ui/ts-config/react.json",
   "include": ["src"]
 }

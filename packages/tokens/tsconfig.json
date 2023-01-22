@@ -1,4 +1,4 @@
 {
-  "extends": "@claudioLins-ui/ts-config/base.json",
+  "extends": "@claudio-lins-ui/ts-config/base.json",
   "include": ["src"]
 }
