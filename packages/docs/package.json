@@ -1,5 +1,5 @@
 {
-  "name": "@claudioLins-ui/docs",
+  "name": "@claudio-lins-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -28,10 +28,10 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
-    "@claudioLins-ui/eslint-config": "*",
-    "@claudioLins-ui/react": "*",
-    "@claudioLins-ui/tokens": "*",
-    "@claudioLins-ui/ts-config": "*",
+    "@claudio-lins-ui/eslint-config": "*",
+    "@claudio-lins-ui/react": "*",
+    "@claudio-lins-ui/tokens": "*",
+    "@claudio-lins-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.15",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

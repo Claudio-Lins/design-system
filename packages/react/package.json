@@ -1,6 +1,6 @@
 {
-  "name": "@claudioLins-ui/react",
-  "version": "1.0.0",
+  "name": "@claudio-lins-ui/react",
+  "version": "2.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@claudioLins-ui/eslint-config": "*",
-    "@claudioLins-ui/tokens": "*",
-    "@claudioLins-ui/ts-config": "*",
+    "@claudio-lins-ui/eslint-config": "*",
+    "@claudio-lins-ui/tokens": "*",
+    "@claudio-lins-ui/ts-config": "*",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "autoprefixer": "^10.4.13",

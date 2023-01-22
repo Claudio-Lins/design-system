@@ -1,6 +1,6 @@
 {
-  "name": "@claudioLins-ui/tokens",
-  "version": "1.0.0",
+  "name": "@claudio-lins-ui/tokens",
+  "version": "1.0.1",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@claudioLins-ui/ts-config": "*",
-    "@claudioLins-ui/eslint-config": "*",
+    "@claudio-lins-ui/ts-config": "*",
+    "@claudio-lins-ui/eslint-config": "*",
     "tsup": "^6.5.0",
     "typescript": "^4.9.4"
   }
