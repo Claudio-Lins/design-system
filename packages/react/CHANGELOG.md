@@ -1,5 +1,11 @@
 # @claudio-lins-ui/react
 
+## 2.2.0
+
+### Minor Changes
+
+- Update InputForm
+
 ## 2.1.0
 
 ### Minor Changes

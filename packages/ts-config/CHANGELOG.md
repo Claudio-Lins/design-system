@@ -1,5 +1,11 @@
 # @claudio-lins-ui/ts-config
 
+## 1.0.2
+
+### Patch Changes
+
+- Update InputForm
+
 ## 1.0.1
 
 ### Patch Changes
