@@ -1,0 +1,2 @@
+import{A as t}from"./index.7e5152e1.js";import"./index.f5d71f20.js";import"./iframe.630e80be.js";import"./index.5243cddb.js";import"./jsx-runtime.d30e51ec.js";const c={title:"Data dislay/Avatar",component:t,args:{src:"https://github.com/claudio-lins.png",alt:"Avatar do Claudio Lins"},argTypes:{src:{control:{type:"text"}}}},l={},p={args:{src:void 0}},m=["Primary","WithFallBack"];export{l as Primary,p as WithFallBack,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.31285b4b.js.map

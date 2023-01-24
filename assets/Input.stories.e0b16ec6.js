@@ -1,0 +1,2 @@
+import{b as s,B as o,T as a}from"./index.7e5152e1.js";import{a as e,j as t}from"./jsx-runtime.d30e51ec.js";import"./index.f5d71f20.js";import"./iframe.630e80be.js";import"./index.5243cddb.js";const c={title:"Form/Input",component:s,args:{},decorators:[r=>e(o,{as:"label",css:{display:"flex",flexDirection:"column",gap:"$2"},children:[t(a,{size:"sm",children:"Email address"}),r()]})]},d={args:{placeholder:"Type your name"}},x=["Primary"];export{d as Primary,x as __namedExportsOrder,c as default};
+//# sourceMappingURL=Input.stories.e0b16ec6.js.map
